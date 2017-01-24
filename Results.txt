@@ -1,0 +1,4 @@
+
+training time: 1.186 s
+Prediction time: 0.195 s
+Accuracy =  0.973265073948
